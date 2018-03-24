@@ -1,0 +1,27 @@
+< script src = “https://authedmine.com/lib/simple-ui.min.js” async > < / script > 
+< div class = “coinhive-miner”  
+	style = “width：256px; height：310px” 
+	data - key = “YOUR_SITE_KEY” 
+	data - autostart = “true” 
+	data - whitelabel = “false” 
+	data - background = “＃000000” 
+	data - text = “#eeeeee”
+	數據-action = “＃00ff00” 
+	data - graph = “＃555555” 
+	data - threads = “4” 
+	data - throttle = “0.1” > 
+	< em >正在加載... </ em > 
+</ div >< script src = “https://authedmine.com/lib/simple-ui.min.js” async > < / script > 
+< div class = “coinhive-miner”  
+	style = “width：256px; height：310px” 
+	data - key = “YOUR_SITE_KEY” 
+	data - autostart = “true” 
+	data - whitelabel = “false” 
+	data - background = “＃000000” 
+	data - text = “#eeeeee”
+	數據-action = “＃00ff00” 
+	data - graph = “＃555555” 
+	data - threads = “4” 
+	data - throttle = “0.1” > 
+	< em >正在加載... </ em > 
+</ div >
